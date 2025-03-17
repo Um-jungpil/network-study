@@ -5,3 +5,5 @@ git 사용 방법 소개
 
 git commit -m ""
 git push
+
+020517
